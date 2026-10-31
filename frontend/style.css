@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f5f2eb;
+    padding: 50px;
+}
+
+h1 {
+    color: #263b32;
+}
+
+p {
+    font-size: 18px;
+}
+
+button {
+    background-color: #263b32;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
